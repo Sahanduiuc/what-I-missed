@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Компьютерные навыки экономиста: что мы могли упустить? on Hugo Whisper Theme</title>
+    <link>/</link>
+    <description>Recent content in Компьютерные навыки экономиста: что мы могли упустить? on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Базовые навыки</title>
+      <link>/docs/preschool/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/preschool/</guid>
+      <description>&lt;p&gt;Бежим из вселенной GUI (&amp;ldquo;point-and-click&amp;rdquo;):
+командная строка,
+текстовый редактор,
+markdown,
+контроль версий (git).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Программирование</title>
+      <link>/docs/programming/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/programming/</guid>
+      <description>&lt;p&gt;Однажды ступив на шаткую дорожку &lt;code&gt;print(&#39;Hello, world!&#39;)&lt;/code&gt;,
+обратного пути уже нет.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Еще о программировании</title>
+      <link>/docs/more-programming/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/more-programming/</guid>
+      <description>&lt;p&gt;Отдельные темы и специфический юмор.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Данные</title>
+      <link>/docs/data/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/data/</guid>
+      <description>&lt;p&gt;Файл Excel, который прислали по электронной почте, не лучший источник данных.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Визуализация</title>
+      <link>/docs/visualisation/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/visualisation/</guid>
+      <description>&lt;p&gt;Одна хорошая картинка стоит многих слов. И трудов.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A как же модели?</title>
+      <link>/docs/models/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/models/</guid>
+      <description>&lt;p&gt;Возможно, наименее сложная часть на практике.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reproducible research</title>
+      <link>/docs/reproducible-research/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/reproducible-research/</guid>
+      <description>&lt;p&gt;No code - no science. Почему открытость данных и воспроизводимость исследований
+так невыгодны экономистам?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Вместо заключения</title>
+      <link>/docs/afterword/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/afterword/</guid>
+      <description>&lt;p&gt;Взгляд из 2001 года.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
