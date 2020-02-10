@@ -1,7 +1,10 @@
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 theme = "hugo-whisper-theme"
-baseURL = "/"
+# baseURL = "//https://epogrebnyak.github.io/what-I-missed/"
+relativeURLs = true
+uglyURLs = false
+
 themesDir = "themes"
 publishDir = "docs"
 
@@ -20,7 +23,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Вперед к новым приключениям"
-    url = "/docs/"
+    url = "/docs/index.html"
     weight = 2
 
 [params]
