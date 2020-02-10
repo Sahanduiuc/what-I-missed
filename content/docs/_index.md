@@ -19,3 +19,8 @@ https://allendowney.github.io/ElementsOfDataScience/run_on_colab_small.png
 (https://colab.research.google.com/drive/1kAZEJOak7NZqv8JEIm5p6KatR5zJz1bp)
 
 
+Репозитарий:
+
+<https://github.com/epogrebnyak/what-I-missed>
+
+
