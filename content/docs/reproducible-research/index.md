@@ -4,8 +4,9 @@ date: 2020-02-10
 weight: 70
 ---
 
-No code - no science. Почему открытость данных и воспроизводимость исследований 
-так невыгодны экономистам?
+No code - no science. Почему открытость 
+данных и воспроизводимость исследований 
+плохо приживаются у экономистов?
 
 <!--more-->
 
@@ -21,11 +22,15 @@ No code - no science. Почему открытость данных и восп
 
 {{< tweet 1223729805184516097 >}}
 
-### Как надо
+### Признание заслуг
+
+{{< tweet 1226732254828924933 >}}
+
+### Как надо - рекомендации
 
 [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
-### Уровень распространения
+### Уровень распространения < 20%
 
 ![](https://pbs.twimg.com/media/EObx0mDWAAIs3QP?format=jpg&name=medium)
 
