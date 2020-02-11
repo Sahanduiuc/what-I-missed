@@ -1,14 +1,14 @@
 ---
 title: 'Базовые навыки'
-date: 2020-02-09
+date: 2020-02-11
 weight: 10
 ---
 
-Бежим из вселенной GUI ("point-and-click"): 
+Бежим из "point-and-click" (GUI) вселенной: 
 командная строка, 
 текстовый редактор,
 markdown, 
-контроль версий (git). 
+контроль версий. 
 
 <!--more-->
 
@@ -18,21 +18,20 @@ markdown,
 
 {{< tweet 1200917769774141442 >}}
 
-
 На чем фокусируемся мы:
 
 - командная строка
 - текстовый редактор
 - разметка текста в markdown
 - контроль версий (git)
-- Jupyter / Colab
+- Jupyter / Colab, удаленные вычисления
 
 ## Литература
 
 - [Art of Command Line](https://github.com/jlevy/the-art-of-command-line#basics)
 - часть лекций из первой темы в <https://www.sas.upenn.edu/~jesusfv/teaching.html>, включая 
   <https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_3_OS_Basic_Utilities.pdf>
-- [Datacscience at the Commandline](https://www.datascienceatthecommandline.com/)
+- [Datascience at the Commandline](https://www.datascienceatthecommandline.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Почему Microsoft так рекламирует свой терминал для Windows?
@@ -60,12 +59,14 @@ Android:
 
 - [Termux](https://habr.com/ru/post/444950/)
 
+Mac/Linux: все и так есть.
+
 ### Идеи
 
 - file system (`~` or `%USERPROFILE%`, `PATH`)
 - streams and redirection (`>`, `>>`, `|`)
 - arguments and flags ([docopt](http://docopt.org/))
-- package managers (apt-get, choco, brew)
+- package managers (apt, choco, brew)
 
 ### Пример с командой tree
 
@@ -81,9 +82,10 @@ tree / -d -L 2
 - notepad.exe (Windows)
 - vim (`:q`), emacs, nano (Linux)
 - Notepad++ (Windows)
-- Atom
-- Sublime
-- VSCode (`Ctrl-Shift-P`)
+- семейство `Ctrl-Shift-P`:
+  - Atom
+  - Sublime
+  - VSCode
 
 Pедактор и среда для программирования (IDE) - могут быть разными.
 
@@ -94,17 +96,20 @@ IDE (Python):
 - PyCharm
 - VSCode 
 
+IDE (R):
+
+- R Studio
+
 ### Легкая разметка - Markdown
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
 Сферы применения:
 
-- github issues
 - документация
 - статические сайты
 - текст в Jupyter
-- изредка посомтреть данные 
+- переписка (github issues)
   
 Ссылки:
 
@@ -120,16 +125,19 @@ IDE (Python):
 ### Система контроля версий
 
 - `~` Dropbox для кода и любых текстовых файлов
-- Важна организация файлов и папок (README)
+- Важна организация файлов и папок (README.md, `src` и т.д.)
 - Возможность совместной работы на кодом (PR, issues)
 - Код можно исполнить на другой машине
+- Видна история изменений
+- Ответвления (версии, ветки)
 - Текст можно превратить в статичный сайт
-- Если есть тесты, они могут исполняться при каждом обновлении кода
+- Тесты, могут исполняться при каждом обновлении кода (CI)
+- Интерфейс - и командная строка, и графические клиенты
+- git, но она не единственная
 - [Github](https://guides.github.com/introduction/flow/) / [Gitlab](https://about.gitlab.com/)
 
 ### Дополнительная иллюстрация
 
 ![](https://raw.githubusercontent.com/jduckles/dsskills/master/ds_for_research.png)
 
-<https://github.com/jduckles/dsskills>
- 
+<https://github.com/jduckles/dsskills> 

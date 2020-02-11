@@ -1,5 +1,5 @@
-languageCode = "en-us"
-title = "Hugo Whisper Theme"
+languageCode = "ru"
+title = "Компьютерные навыки для экономистов"
 theme = "hugo-whisper-theme"
 # baseURL = "//https://epogrebnyak.github.io/what-I-missed/"
 relativeURLs = true
@@ -30,22 +30,22 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Догнать и перегнать'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_intro = 'Краткий обзор компьютерных навыков для экономистов и развитие воспроизводимых исследований' #'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = '/images/allie-smith-1-unsplash.jpg'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Компьютерные навыки для экономистов"
+    meta_og_title = "Отбор тем и ссылки на обучающие материалы"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
+    meta_og_url = "https://epogrebnyak.github.io/what-I-missed"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_description = 'Краткий обзор компьютерных навыков для экономистов и развитие воспроизводимых исследований'
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@PogrebnyakE"
+    meta_twitter_creator = "@PogrebnyakE"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
