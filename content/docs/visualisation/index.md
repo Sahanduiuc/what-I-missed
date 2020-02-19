@@ -9,13 +9,6 @@ weight: 50
 
 <!--more-->
 
-### Библиотеки
-
-- ggplot
-- matplotlib
-- bokeh
-- plotly
-
 ### Не рисуем слишком много
 
 {{< tweet 1193557684114481157 >}}
@@ -32,10 +25,26 @@ weight: 50
 
 -->
 
-### Статьи
+### Ориентируемся в библиотеках
 
-<https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368>
+- ggplot (R)
+- matplotlib (python)
+- bokeh (js-based)
+- plotly (js-based)
 
-<https://datascience.quantecon.org/scientific/plotting.html> (cо ссылками)
 
+### Учимся на примерах
+
+- [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
+- [Introduction to Data Visualization, Fall 2016](http://paldhous.github.io/ucb/2016/dataviz/index.html)
+- [QuantEcon DataScience - Plotting](https://datascience.quantecon.org/scientific/plotting.html)
+
+
+### Читаем книги 
+
+<li><a href="https://www.amazon.com/The-Functional-Art-introduction-visualization/dp/0321834739/">The Functional Art: An introduction to information graphics and visualization</a> by Alberto Cairo  </li>
+<li><a href="https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130">The Visual Display of Quantitative Information</a> by Edward Tufte  </li>
+<li><a href="https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281">The Wall Street Journal Guide to Information Graphics: The Dos and Don’ts of Presenting Data, Facts, and Figures</a> by Dona M Wong  </li>
+
+<
 
